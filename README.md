@@ -1,5 +1,5 @@
 # CODSOFT
 Python Programming Internship
-Task1 is Todo-List Application
-Task2 is Calculator Application
-Task3 is Password Generator Application
+Task1 is Todo-List Application<br>
+Task2 is Calculator Application<br>
+Task3 is Password Generator Application<br>
